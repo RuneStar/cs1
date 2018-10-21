@@ -1,0 +1,1017 @@
+31:76 = varp(261) == 0
+31:77 = varp(261) == 1
+31:84 = varp(261) == 2
+31:87 = varp(261) == 3
+33:76 = varbit(49) == 1
+33:78 = varbit(49) == 2
+33:79 = varbit(49) == 3
+33:80 = varbit(49) == 0
+33:86 = varbit(50) == 1
+33:100 = varbit(50) == 2
+33:101 = varbit(50) == 3
+33:102 = varbit(50) == 4
+33:103 = varbit(50) == 5
+33:104 = varbit(50) == 6
+33:105 = varbit(50) == 7
+33:106 = varbit(50) == 8
+33:107 = varbit(50) == 9
+33:108 = varbit(50) == 10
+33:109 = varbit(50) == 11
+33:110 = varbit(50) == 12
+33:112 = varbit(68) == 1
+37:76 = varbit(49) == 1
+37:78 = varbit(49) == 2
+37:79 = varbit(49) == 3
+37:80 = varbit(49) == 0
+37:86 = varbit(50) == 1
+37:100 = varbit(50) == 2
+37:101 = varbit(50) == 3
+37:102 = varbit(50) == 4
+37:103 = varbit(50) == 5
+37:104 = varbit(50) == 6
+37:105 = varbit(50) == 7
+37:106 = varbit(50) == 8
+37:107 = varbit(50) == 9
+37:108 = varbit(50) == 10
+37:109 = varbit(50) == 11
+37:110 = varbit(50) == 12
+37:112 = varbit(68) == 1
+40:128 = varbit(1684) > 0
+40:129 = varbit(1685) > 0
+40:130 = varbit(1686) > 0
+40:131 = varbit(1687) > 0
+40:132 = varbit(1688) > 0
+40:133 = varbit(1689) > 0
+40:134 = varbit(1690) > 0
+40:135 = varbit(1691) > 0
+40:136 = varbit(1692) > 0
+40:137 = varbit(1693) > 0
+40:138 = varbit(1694) > 0
+40:139 = varbit(1695) > 0
+40:140 = varbit(1696) > 0
+40:141 = varbit(1697) > 0
+40:142 = varbit(1698) > 0
+40:143 = varbit(1699) > 0
+40:144 = varbit(1700) > 0
+40:145 = varbit(1701) > 0
+40:146 = varbit(1702) > 0
+40:147 = varbit(1703) > 0
+40:148 = varbit(1704) > 0
+40:149 = varbit(1705) > 0
+40:150 = varbit(1706) > 0
+40:151 = varbit(1707) > 0
+40:152 = varbit(1708) > 0
+40:153 = varbit(1709) > 0
+40:154 = varbit(1710) > 0
+40:155 = varbit(1711) > 0
+40:156 = varbit(1712) > 0
+40:157 = varbit(1713) > 0
+40:158 = varbit(1714) > 0
+40:159 = varbit(1715) > 0
+40:160 = varbit(1716) > 0
+40:161 = varbit(1717) > 0
+40:162 = varbit(1718) > 0
+40:163 = varbit(1719) > 0
+40:164 = varbit(1720) > 0
+40:165 = varbit(1721) > 0
+40:166 = varbit(1722) > 0
+40:167 = varbit(1723) > 0
+40:168 = varbit(1724) > 0
+40:169 = varbit(1725) > 0
+40:170 = varbit(1726) > 0
+40:171 = varbit(1727) > 0
+40:172 = varbit(1728) > 0
+40:173 = varbit(1729) > 0
+40:174 = varbit(1730) > 0
+40:175 = varbit(1731) > 0
+40:176 = varbit(1732) > 0
+40:177 = varbit(1733) > 0
+40:178 = varbit(1734) > 0
+40:179 = varbit(1735) > 0
+40:180 = varbit(1736) > 0
+40:181 = varbit(1737) > 0
+40:182 = varbit(1738) > 0
+40:183 = varbit(1739) > 0
+40:184 = varbit(1628) > 0
+40:185 = varbit(1629) > 0
+40:186 = varbit(1630) > 0
+40:187 = varbit(1631) > 0
+40:188 = varbit(1632) > 0
+40:189 = varbit(1633) > 0
+40:190 = varbit(1634) > 0
+40:191 = varbit(1635) > 0
+40:192 = varbit(1636) > 0
+40:193 = varbit(1637) > 0
+40:194 = varbit(1638) > 0
+40:195 = varbit(1639) > 0
+40:196 = varbit(1640) > 0
+40:197 = varbit(1641) > 0
+40:198 = varbit(1642) > 0
+40:199 = varbit(1643) > 0
+40:200 = varbit(1644) > 0
+40:201 = varbit(1645) > 0
+40:202 = varbit(1646) > 0
+40:203 = varbit(1647) > 0
+40:204 = varbit(1648) > 0
+40:205 = varbit(1649) > 0
+40:206 = varbit(1650) > 0
+40:207 = varbit(1651) > 0
+40:208 = varbit(1652) > 0
+40:209 = varbit(1653) > 0
+40:210 = varbit(1654) > 0
+40:211 = varbit(1655) > 0
+40:212 = varbit(1656) > 0
+40:213 = varbit(1657) > 0
+40:214 = varbit(1658) > 0
+40:215 = varbit(1659) > 0
+40:216 = varbit(1660) > 0
+40:217 = varbit(1661) > 0
+40:218 = varbit(1662) > 0
+40:219 = varbit(1663) > 0
+40:220 = varbit(1664) > 0
+40:221 = varbit(1665) > 0
+40:222 = varbit(1666) > 0
+40:223 = varbit(1667) > 0
+40:224 = varbit(1668) > 0
+40:225 = varbit(1669) > 0
+40:226 = varbit(1670) > 0
+40:227 = varbit(1671) > 0
+40:228 = varbit(1672) > 0
+40:229 = varbit(1673) > 0
+40:230 = varbit(1674) > 0
+40:231 = varbit(1675) > 0
+40:232 = varbit(1676) > 0
+40:233 = varbit(1677) > 0
+40:234 = varbit(1678) > 0
+40:235 = varbit(1679) > 0
+40:236 = varbit(1680) > 0
+40:237 = varbit(1681) > 0
+40:238 = varbit(1682) > 0
+40:239 = varbit(1683) > 0
+40:293 = varbit(1684) > 0
+40:294 = varbit(1685) > 0
+40:295 = varbit(1686) > 0
+40:296 = varbit(1687) > 0
+40:297 = varbit(1688) > 0
+40:298 = varbit(1689) > 0
+40:299 = varbit(1690) > 0
+40:300 = varbit(1691) > 0
+40:301 = varbit(1692) > 0
+40:302 = varbit(1693) > 0
+40:303 = varbit(1694) > 0
+40:304 = varbit(1695) > 0
+40:305 = varbit(1696) > 0
+40:306 = varbit(1697) > 0
+40:307 = varbit(1698) > 0
+40:308 = varbit(1699) > 0
+40:309 = varbit(1700) > 0
+40:310 = varbit(1701) > 0
+40:311 = varbit(1702) > 0
+40:312 = varbit(1703) > 0
+40:313 = varbit(1704) > 0
+40:314 = varbit(1705) > 0
+40:315 = varbit(1706) > 0
+40:316 = varbit(1707) > 0
+40:317 = varbit(1708) > 0
+40:318 = varbit(1709) > 0
+40:319 = varbit(1710) > 0
+40:320 = varbit(1711) > 0
+40:321 = varbit(1712) > 0
+40:322 = varbit(1713) > 0
+40:323 = varbit(1714) > 0
+40:324 = varbit(1715) > 0
+40:325 = varbit(1716) > 0
+40:326 = varbit(1717) > 0
+40:327 = varbit(1718) > 0
+40:328 = varbit(1719) > 0
+40:329 = varbit(1720) > 0
+40:330 = varbit(1721) > 0
+40:331 = varbit(1722) > 0
+40:332 = varbit(1723) > 0
+40:333 = varbit(1724) > 0
+40:334 = varbit(1725) > 0
+40:335 = varbit(1726) > 0
+40:336 = varbit(1727) > 0
+40:337 = varbit(1728) > 0
+40:338 = varbit(1729) > 0
+40:339 = varbit(1730) > 0
+40:340 = varbit(1731) > 0
+40:341 = varbit(1732) > 0
+40:342 = varbit(1733) > 0
+40:343 = varbit(1734) > 0
+40:344 = varbit(1735) > 0
+40:345 = varbit(1736) > 0
+40:346 = varbit(1737) > 0
+40:347 = varbit(1738) > 0
+40:348 = varbit(1739) > 0
+40:349 = varbit(1628) > 0
+40:350 = varbit(1629) > 0
+40:351 = varbit(1630) > 0
+40:352 = varbit(1631) > 0
+40:353 = varbit(1632) > 0
+40:354 = varbit(1633) > 0
+40:355 = varbit(1634) > 0
+40:356 = varbit(1635) > 0
+40:357 = varbit(1636) > 0
+40:358 = varbit(1637) > 0
+40:359 = varbit(1638) > 0
+40:360 = varbit(1639) > 0
+40:361 = varbit(1640) > 0
+40:362 = varbit(1641) > 0
+40:363 = varbit(1642) > 0
+40:364 = varbit(1643) > 0
+40:365 = varbit(1644) > 0
+40:366 = varbit(1645) > 0
+40:367 = varbit(1646) > 0
+40:368 = varbit(1647) > 0
+40:369 = varbit(1648) > 0
+40:370 = varbit(1649) > 0
+40:371 = varbit(1650) > 0
+40:372 = varbit(1651) > 0
+40:373 = varbit(1652) > 0
+40:374 = varbit(1653) > 0
+40:375 = varbit(1654) > 0
+40:376 = varbit(1655) > 0
+40:377 = varbit(1656) > 0
+40:378 = varbit(1657) > 0
+40:379 = varbit(1658) > 0
+40:380 = varbit(1659) > 0
+40:381 = varbit(1660) > 0
+40:382 = varbit(1661) > 0
+40:383 = varbit(1662) > 0
+40:384 = varbit(1663) > 0
+40:385 = varbit(1664) > 0
+40:386 = varbit(1665) > 0
+40:387 = varbit(1666) > 0
+40:388 = varbit(1667) > 0
+40:389 = varbit(1668) > 0
+40:390 = varbit(1669) > 0
+40:391 = varbit(1670) > 0
+40:392 = varbit(1671) > 0
+40:393 = varbit(1672) > 0
+40:394 = varbit(1673) > 0
+40:395 = varbit(1674) > 0
+40:396 = varbit(1675) > 0
+40:397 = varbit(1676) > 0
+40:398 = varbit(1677) > 0
+40:399 = varbit(1678) > 0
+40:400 = varbit(1679) > 0
+40:401 = varbit(1680) > 0
+40:402 = varbit(1681) > 0
+40:403 = varbit(1682) > 0
+40:404 = varbit(1683) > 0
+41:76 = varbit(49) == 1
+41:78 = varbit(49) == 2
+41:79 = varbit(49) == 3
+41:80 = varbit(49) == 0
+41:86 = varbit(50) == 1
+41:100 = varbit(50) == 2
+41:101 = varbit(50) == 3
+41:102 = varbit(50) == 4
+41:103 = varbit(50) == 5
+41:104 = varbit(50) == 6
+41:105 = varbit(50) == 7
+41:106 = varbit(50) == 8
+41:107 = varbit(50) == 9
+41:108 = varbit(50) == 10
+41:109 = varbit(50) == 11
+41:110 = varbit(50) == 12
+41:112 = varbit(68) == 1
+43:106 = varbit(1684) > 0
+43:107 = varbit(1685) > 0
+43:108 = varbit(1686) > 0
+43:109 = varbit(1687) > 0
+43:110 = varbit(1688) > 0
+43:111 = varbit(1689) > 0
+43:112 = varbit(1690) > 0
+43:113 = varbit(1691) > 0
+43:114 = varbit(1692) > 0
+43:115 = varbit(1693) > 0
+43:116 = varbit(1694) > 0
+43:117 = varbit(1695) > 0
+43:118 = varbit(1696) > 0
+43:119 = varbit(1697) > 0
+43:120 = varbit(1698) > 0
+43:121 = varbit(1699) > 0
+43:122 = varbit(1700) > 0
+43:123 = varbit(1701) > 0
+43:124 = varbit(1702) > 0
+43:125 = varbit(1703) > 0
+43:126 = varbit(1704) > 0
+43:127 = varbit(1705) > 0
+43:128 = varbit(1706) > 0
+43:129 = varbit(1707) > 0
+43:130 = varbit(1708) > 0
+43:131 = varbit(1709) > 0
+43:132 = varbit(1710) > 0
+43:133 = varbit(1711) > 0
+43:134 = varbit(1712) > 0
+43:135 = varbit(1713) > 0
+43:136 = varbit(1714) > 0
+43:137 = varbit(1715) > 0
+43:138 = varbit(1716) > 0
+43:139 = varbit(1717) > 0
+43:140 = varbit(1718) > 0
+43:141 = varbit(1719) > 0
+43:142 = varbit(1720) > 0
+43:143 = varbit(1721) > 0
+43:144 = varbit(1722) > 0
+43:145 = varbit(1723) > 0
+43:146 = varbit(1724) > 0
+43:147 = varbit(1725) > 0
+43:148 = varbit(1726) > 0
+43:149 = varbit(1727) > 0
+43:150 = varbit(1728) > 0
+43:151 = varbit(1729) > 0
+43:152 = varbit(1730) > 0
+43:153 = varbit(1731) > 0
+43:154 = varbit(1732) > 0
+43:155 = varbit(1733) > 0
+43:156 = varbit(1734) > 0
+43:157 = varbit(1735) > 0
+43:158 = varbit(1736) > 0
+43:159 = varbit(1737) > 0
+43:160 = varbit(1738) > 0
+43:161 = varbit(1739) > 0
+43:162 = varbit(1628) > 0
+43:163 = varbit(1629) > 0
+43:164 = varbit(1630) > 0
+43:165 = varbit(1631) > 0
+43:166 = varbit(1632) > 0
+43:167 = varbit(1633) > 0
+43:168 = varbit(1634) > 0
+43:169 = varbit(1635) > 0
+43:170 = varbit(1636) > 0
+43:171 = varbit(1637) > 0
+43:172 = varbit(1638) > 0
+43:173 = varbit(1639) > 0
+43:174 = varbit(1640) > 0
+43:175 = varbit(1641) > 0
+43:176 = varbit(1642) > 0
+43:177 = varbit(1643) > 0
+43:178 = varbit(1644) > 0
+43:179 = varbit(1645) > 0
+43:180 = varbit(1646) > 0
+43:181 = varbit(1647) > 0
+43:182 = varbit(1648) > 0
+43:183 = varbit(1649) > 0
+43:184 = varbit(1650) > 0
+43:185 = varbit(1651) > 0
+43:186 = varbit(1652) > 0
+43:187 = varbit(1653) > 0
+43:188 = varbit(1654) > 0
+43:189 = varbit(1655) > 0
+43:190 = varbit(1656) > 0
+43:191 = varbit(1657) > 0
+43:192 = varbit(1658) > 0
+43:193 = varbit(1659) > 0
+43:194 = varbit(1660) > 0
+43:195 = varbit(1661) > 0
+43:196 = varbit(1662) > 0
+43:197 = varbit(1663) > 0
+43:198 = varbit(1664) > 0
+43:199 = varbit(1665) > 0
+43:200 = varbit(1666) > 0
+43:201 = varbit(1667) > 0
+43:202 = varbit(1668) > 0
+43:203 = varbit(1669) > 0
+43:204 = varbit(1670) > 0
+43:205 = varbit(1671) > 0
+43:206 = varbit(1672) > 0
+43:207 = varbit(1673) > 0
+43:208 = varbit(1674) > 0
+43:209 = varbit(1675) > 0
+43:210 = varbit(1676) > 0
+43:211 = varbit(1677) > 0
+43:212 = varbit(1678) > 0
+43:213 = varbit(1679) > 0
+43:214 = varbit(1680) > 0
+43:215 = varbit(1681) > 0
+43:216 = varbit(1682) > 0
+43:217 = varbit(1683) > 0
+45:76 = varbit(49) == 1
+45:78 = varbit(49) == 2
+45:79 = varbit(49) == 3
+45:80 = varbit(49) == 0
+45:86 = varbit(50) == 1
+45:100 = varbit(50) == 2
+45:101 = varbit(50) == 3
+45:102 = varbit(50) == 4
+45:103 = varbit(50) == 5
+45:104 = varbit(50) == 6
+45:105 = varbit(50) == 7
+45:106 = varbit(50) == 8
+45:107 = varbit(50) == 9
+45:108 = varbit(50) == 10
+45:109 = varbit(50) == 11
+45:110 = varbit(50) == 12
+45:112 = varbit(68) == 1
+48:7 = varp(261) == 1
+48:8 = varp(261) == 2
+99:7 = varp(261) == 1
+99:8 = varp(261) == 2
+99:9 = varp(261) == 3
+99:10 = varp(261) == 4
+99:11 = varp(261) == 5
+99:12 = varp(261) == 6
+99:13 = varp(261) == 7
+99:14 = varp(261) == 8
+99:15 = varp(261) == 9
+99:16 = varp(261) == 10
+99:17 = varp(262) == 1
+99:18 = varp(262) == 2
+99:19 = varp(262) == 3
+99:20 = varp(262) == 4
+99:21 = varp(262) == 5
+99:22 = varp(262) == 6
+99:23 = varp(262) == 7
+99:24 = varp(262) == 8
+99:25 = varp(262) == 9
+99:26 = varp(262) == 10
+114:24 = varp(261) == 1
+114:25 = varp(262) == 1
+114:26 = varp(263) == 1
+114:27 = varp(264) == 1
+114:28 = varp(265) == 1
+114:29 = varp(266) == 1
+134:3 = varp(261) == 1
+134:4 = varp(261) == 2
+134:5 = varp(261) == 3
+134:6 = varp(261) == 4
+134:7 = varp(261) == 5
+134:8 = varp(261) == 6
+134:9 = varp(261) == 7
+134:10 = varp(261) == 8
+134:11 = varp(261) == 9
+134:12 = varp(261) == 10
+134:13 = varp(261) == 11
+134:14 = varp(261) == 12
+134:15 = varp(261) == 13
+134:16 = varp(261) == 14
+134:17 = varp(261) == 15
+134:18 = varp(261) == 16
+134:19 = varp(261) == 17
+134:20 = varp(261) == 18
+134:21 = varp(261) == 19
+134:22 = varp(261) == 20
+134:23 = varp(261) == 21
+134:24 = varp(261) == 22
+134:25 = varp(261) == 23
+144:208 = testbit_varp(383, 1) == 1
+144:209 = testbit_varp(383, 2) == 1
+144:210 = testbit_varp(383, 3) == 1
+144:211 = testbit_varp(383, 4) == 1
+144:212 = testbit_varp(383, 5) == 1
+144:213 = testbit_varp(383, 6) == 1
+144:214 = testbit_varp(383, 7) == 1
+144:215 = testbit_varp(383, 8) == 1
+144:220 = varp(383) > 8191
+144:221 = testbit_varp(383, 13) == 1
+144:258 = testbit_varp(383, 15) == 1
+144:277 = testbit_varp(383, 14) == 1
+144:297 = testbit_varp(383, 16) == 1
+144:308 = testbit_varp(383, 17) == 1
+144:320 = testbit_varp(383, 18) == 1
+144:354 = testbit_varp(383, 19) == 1
+144:367 = testbit_varp(383, 20) == 1
+144:368 = testbit_varp(383, 13) == 1
+144:369 = testbit_varp(383, 13) == 1
+189:9 = varp(531) > 0
+189:10 = varp(531) > 1
+189:11 = varp(531) > 2
+189:12 = varp(531) > 3
+189:13 = varp(531) > 4
+189:14 = varp(531) > 5
+200:96 = varp(261) == 1
+200:97 = varp(261) == 2
+200:98 = varp(261) == 3
+200:99 = varp(261) == 4
+200:100 = varp(261) == 5
+200:101 = varp(261) == 6
+262:1 = varp(262) < 3
+262:2 = varp(262) < 2
+262:3 = varp(262) < 1
+262:13 = varbit(2646) == 7 && varbit(2647) == 7 && varbit(2648) == 7
+262:15 = varbit(2646) == 8 && varbit(2647) == 8 && varbit(2648) == 8
+262:37 = varp(261) == 3
+262:38 = varp(261) == 4
+262:39 = varp(261) == 5
+262:40 = varp(261) == 6
+262:41 = varp(261) == 1
+262:42 = varp(261) == 2
+267:147 = varp(261) > 0
+282:11 = varbit(1413) == 1
+282:12 = varbit(1412) == 63
+282:13 = varbit(1412) == 62
+282:14 = varbit(1412) == 60
+282:15 = varbit(1412) == 56
+282:16 = varbit(1412) == 48
+282:17 = varbit(1412) == 32
+282:18 = varbit(1412) == 1
+282:19 = varbit(1412) == 24
+286:93 = testbit_varp(331, 0) == 0
+286:94 = testbit_varp(331, 1) == 0
+286:95 = testbit_varp(331, 2) == 0
+286:96 = testbit_varp(331, 3) == 0
+286:97 = testbit_varp(331, 4) == 0
+286:98 = testbit_varp(331, 5) == 0
+286:99 = testbit_varp(331, 6) == 0
+286:100 = testbit_varp(331, 7) == 0
+286:101 = testbit_varp(331, 8) == 0
+286:102 = testbit_varp(331, 9) == 0
+286:103 = testbit_varp(331, 10) == 0
+286:104 = testbit_varp(331, 11) == 0
+286:105 = testbit_varp(331, 12) == 0
+286:106 = testbit_varp(331, 13) == 0
+286:107 = testbit_varp(331, 14) == 0
+286:108 = testbit_varp(331, 15) == 0
+286:109 = testbit_varp(331, 16) == 0
+286:110 = testbit_varp(331, 17) == 0
+286:111 = testbit_varp(331, 18) == 0
+286:112 = testbit_varp(331, 19) == 0
+286:113 = testbit_varp(331, 20) == 0
+286:114 = testbit_varp(331, 21) == 0
+286:115 = testbit_varp(331, 22) == 0
+286:116 = testbit_varp(331, 23) == 0
+286:117 = testbit_varp(331, 24) == 0
+286:118 = testbit_varp(331, 25) == 0
+286:121 = testbit_varp(331, 26) == 1
+286:122 = testbit_varp(331, 27) == 1
+286:123 = testbit_varp(331, 28) == 1
+286:124 = testbit_varp(331, 29) == 1
+286:125 = testbit_varp(331, 30) == 1
+286:126 = testbit_varp(331, 31) == 1
+286:132 = varp(330) > 0
+286:133 = varp(330) > 1
+286:134 = varp(330) > 2
+286:135 = varp(330) > 3
+286:136 = varp(330) > 4
+286:137 = varp(330) > 5
+286:138 = varp(330) > 6
+286:139 = varp(330) > 7
+286:140 = varp(330) > 8
+286:141 = varp(330) > 9
+286:142 = varp(330) > 10
+286:143 = varp(330) > 11
+286:144 = varp(330) > 12
+286:145 = varp(330) > 13
+286:146 = varp(330) > 14
+286:147 = varp(330) > 15
+286:148 = varp(330) > 16
+286:149 = varp(330) > 17
+286:150 = varp(330) > 18
+286:151 = varp(330) > 19
+286:152 = varp(330) > 20
+286:153 = varp(330) > 21
+286:154 = varp(330) > 22
+286:155 = varp(330) > 23
+286:156 = varp(330) > 24
+289:43 = varp(261) == 5
+289:44 = varp(261) == 1
+289:46 = varp(261) == 1
+289:47 = varp(261) == 5
+289:49 = varp(261) == 1
+289:50 = varp(261) == 5
+289:52 = varp(261) == 1
+289:53 = varp(261) == 5
+289:55 = varp(261) == 1
+289:56 = varp(261) == 5
+291:0 = invcount(149:0, gear_5562) > 0
+291:1 = invcount(149:0, gear_5563) > 0
+291:2 = invcount(149:0, gear_5564) > 0
+291:3 = invcount(149:0, gear_5565) > 0
+291:4 = invcount(149:0, gear_5566) > 0
+291:5 = invcount(149:0, gear_5567) > 0
+291:6 = varbit(636) == 1
+291:7 = varbit(636) == 2
+291:8 = varbit(636) == 3
+291:9 = varbit(636) == 4
+291:10 = varbit(636) == 5
+291:11 = varbit(636) == 6
+293:3 = invcount(149:0, tile_5568) > 0
+293:4 = invcount(149:0, tiles_5569) > 0
+293:5 = invcount(149:0, tiles_5570) > 0
+293:6 = invcount(149:0, tiles_5571) > 0
+299:26 = varp(75) == 1
+299:27 = varp(75) == 2
+299:28 = varp(75) == 3
+299:29 = varp(75) == 4
+299:30 = varp(75) == 5
+299:31 = varp(75) == 6
+299:32 = varp(75) == 7
+299:33 = varp(75) == 8
+299:34 = varp(75) == 9
+299:35 = varp(75) == 10
+299:36 = varp(75) == 11
+299:37 = varp(75) == 12
+299:38 = varp(75) == 13
+299:39 = varp(75) == 14
+299:40 = varp(75) == 15
+299:41 = varp(75) == 16
+299:42 = varp(75) == 17
+325:92 = varp(158) == 0
+325:94 = varp(156) < 11
+325:95 = varp(158) == 1
+325:96 = varp(158) == 4
+325:97 = varp(158) == 6
+325:98 = varp(158) == 5
+325:99 = varp(158) == 9
+325:100 = varp(158) == 3
+325:101 = varp(158) == 8
+325:102 = varp(158) == 2
+325:103 = varp(158) == 7
+325:104 = varp(158) == 10
+325:113 = varp(156) < 10
+325:115 = varp(156) < 9
+325:116 = varp(156) < 8
+325:117 = varp(156) < 7
+325:118 = varp(156) < 6
+325:119 = varp(156) < 5
+325:120 = varp(156) < 4
+325:121 = varp(156) < 3
+325:122 = varp(156) < 2
+329:34 = varbit(1958) == 1
+329:35 = varbit(1958) == 2
+329:36 = varbit(1958) == 3
+329:37 = varbit(1958) == 10
+329:38 = varbit(1958) == 4
+329:39 = varbit(1958) == 5
+329:40 = varbit(1958) == 6
+329:41 = varbit(1958) == 7
+329:42 = varbit(1958) == 8
+329:43 = varbit(1958) == 9
+329:44 = varbit(1958) == 11
+329:45 = varbit(1958) == 12
+329:46 = varbit(1958) == 13
+329:47 = varbit(1958) == 14
+329:48 = varbit(1958) == 15
+329:49 = varbit(1958) == 16
+329:50 = varbit(1958) == 17
+329:51 = varbit(1958) == 18
+329:52 = varbit(1958) == 19
+329:53 = varbit(1958) == 20
+329:54 = varbit(1958) == 21
+329:55 = varbit(1958) == 22
+329:56 = varbit(1958) == 23
+329:57 = varbit(1958) == 24
+329:58 = varbit(1958) == 25
+330:3 = varp(261) == 1
+330:4 = varp(261) == 2
+330:5 = varp(261) == 3
+330:6 = varp(261) == 4
+330:7 = varp(261) == 5
+330:8 = varp(261) == 6
+330:9 = varp(261) == 7
+330:10 = varp(261) == 8
+330:11 = varp(261) == 9
+374:11 = varbit(1050) == 1
+374:12 = varbit(1050) == 2
+374:13 = varbit(1050) == 3
+374:14 = varbit(1050) == 4
+374:15 = varbit(1050) == 5
+391:13 = varbit(84) > 0
+391:14 = varbit(84) > 1
+391:15 = varbit(84) > 2
+391:16 = varbit(84) > 3
+391:17 = varbit(84) > 4
+391:18 = varbit(84) > 5
+391:19 = varbit(84) > 6
+391:20 = varbit(84) > 7
+391:21 = varbit(84) > 8
+391:22 = varbit(84) > 9
+391:29 = varbit(82) > 0
+391:31 = varbit(81) > 0
+391:32 = varbit(81) > 1
+391:33 = varbit(81) > 2
+391:34 = varbit(81) > 3
+391:35 = varbit(81) > 4
+391:36 = varbit(81) > 5
+391:37 = varbit(81) > 6
+391:38 = varbit(81) > 7
+391:40 = varbit(81) > 8
+391:47 = varbit(81) > 9
+391:48 = varbit(82) > 1
+391:50 = varbit(82) > 2
+391:51 = varbit(82) > 3
+391:52 = varbit(82) > 4
+391:53 = varbit(82) > 5
+391:54 = varbit(82) > 6
+391:55 = varbit(82) > 7
+391:56 = varbit(82) > 8
+391:57 = varbit(82) > 9
+391:63 = varbit(83) > 0
+391:64 = varbit(83) > 1
+391:65 = varbit(83) > 2
+391:67 = varbit(83) > 3
+391:68 = varbit(83) > 4
+391:69 = varbit(83) > 5
+391:70 = varbit(83) > 6
+391:71 = varbit(83) > 7
+391:72 = varbit(83) > 8
+391:73 = varbit(83) > 9
+391:74 = varp(261) > 0
+391:75 = varp(261) > 1
+391:76 = varp(261) > 2
+391:77 = varp(261) > 3
+391:81 = varp(261) > 4
+391:82 = varp(261) > 5
+391:83 = varp(261) > 6
+391:84 = varp(261) > 7
+391:85 = varp(261) > 8
+391:86 = varp(261) > 9
+391:87 = varp(261) > 10
+391:88 = varp(261) > 11
+391:89 = varp(261) > 12
+391:90 = varp(261) > 13
+391:91 = varp(261) > 14
+391:101 = varp(262) == 1
+391:102 = varp(262) == 1
+391:103 = varp(262) == 1
+391:104 = varp(262) == 1
+391:105 = varp(262) == 1
+391:106 = varp(262) == 1
+391:107 = varp(262) == 1
+391:108 = varp(262) == 1
+391:109 = varp(262) == 1
+391:110 = varp(262) == 1
+391:112 = varbit(135) == 1
+391:118 = varbit(2131) > 0
+391:119 = varbit(2131) > 1
+391:120 = varbit(2131) > 2
+391:121 = varbit(2131) > 3
+391:122 = varbit(2131) > 4
+391:123 = varbit(2131) > 5
+391:124 = varbit(2131) > 6
+391:125 = varbit(2131) > 7
+391:126 = varbit(2131) > 8
+391:127 = varbit(2131) > 9
+391:128 = varbit(2133) == 0
+391:129 = varbit(2133) == 1
+391:130 = varbit(2133) == 2
+391:145 = varbit(2132) > 0
+391:146 = varbit(2132) > 1
+391:147 = varbit(2132) > 2
+391:148 = varbit(2132) > 3
+391:149 = varbit(2132) > 4
+391:150 = varbit(2132) > 5
+391:151 = varbit(2132) > 6
+391:152 = varbit(2132) > 7
+391:153 = varbit(2132) > 8
+391:154 = varbit(2132) > 9
+391:155 = varbit(2134) == 0
+391:157 = varbit(2134) == 1
+411:9 = varbit(2247) == 1
+411:10 = varbit(2247) == 2
+411:11 = varbit(2247) == 3
+411:12 = varbit(2247) == 0
+433:20 = varbit(2469) > 0
+433:21 = varbit(2470) > 0
+433:22 = varbit(2471) > 0
+433:23 = varbit(2472) > 0
+434:96 = invcount(149:0, equa_leaves_2128) > 3
+434:97 = invcount(149:0, pineapple_chunks_2116) > 0
+434:98 = invcount(149:0, orange_chunks_2110) > 0
+434:99 = invcount(149:0, lime_chunks_2122) > 0
+434:107 = invcount(149:0, equa_leaves_2128) > 0
+434:108 = invcount(149:0, toads_legs_2152) > 0
+434:109 = invcount(149:0, gnome_spice_2169) > 0
+434:110 = invcount(149:0, cheese_1985) > 0
+434:117 = invcount(149:0, gnome_spice_2169) > 0
+434:118 = invcount(149:0, king_worm_2162) > 0
+434:119 = invcount(149:0, cheese_1985) > 0
+434:128 = invcount(149:0, tomato_1982) > 1
+434:129 = invcount(149:0, onion_1957) > 0
+434:130 = invcount(149:0, cabbage_1965) > 0
+434:131 = invcount(149:0, dwellberries_2126) > 0
+434:132 = invcount(149:0, cheese_1985) > 0
+434:138 = invcount(149:0, tomato_1982) > 0
+434:139 = invcount(149:0, cheese_1985) > 0
+434:142 = stat(cooking) > 24
+434:143 = stat(cooking) > 25
+434:144 = stat(cooking) > 26
+434:145 = stat(cooking) > 28
+434:146 = stat(cooking) > 27
+434:147 = invcount(149:0, equa_leaves_2128) > 3 && invcount(149:0, pineapple_chunks_2116) > 0 && invcount(149:0, orange_chunks_2110) > 0 && invcount(149:0, lime_chunks_2122) > 0
+434:148 = invcount(149:0, equa_leaves_2128) > 0 && invcount(149:0, gnome_spice_2169) > 0 && invcount(149:0, toads_legs_2152) > 0 && invcount(149:0, cheese_1985) > 0
+434:149 = invcount(149:0, king_worm_2162) > 0 && invcount(149:0, gnome_spice_2169) > 0 && invcount(149:0, cheese_1985) > 0
+434:150 = invcount(149:0, tomato_1982) > 1 && invcount(149:0, onion_1957) > 0 && invcount(149:0, cabbage_1965) > 0 && invcount(149:0, dwellberries_2126) > 0 && invcount(149:0, cheese_1985) > 0
+434:151 = invcount(149:0, tomato_1982) > 0 && invcount(149:0, cheese_1985) > 0
+435:95 = invcount(149:0, king_worm_2162) > 3
+435:96 = invcount(149:0, onion_1957) > 1
+435:97 = invcount(149:0, gnome_spice_2169) > 0
+435:104 = invcount(149:0, onion_1957) > 1
+435:105 = invcount(149:0, potato_1942) > 1
+435:106 = invcount(149:0, gnome_spice_2169) > 0
+435:115 = invcount(149:0, toads_legs_2152) > 3
+435:116 = invcount(149:0, cheese_1985) > 1
+435:117 = invcount(149:0, equa_leaves_2128) > 1
+435:118 = invcount(149:0, gnome_spice_2169) > 0
+435:119 = invcount(149:0, dwellberries_2126) > 0
+435:125 = invcount(149:0, chocolate_bar_1973) > 3
+435:126 = invcount(149:0, equa_leaves_2128) > 0
+435:129 = stat(cooking) > 29
+435:130 = stat(cooking) > 34
+435:131 = stat(cooking) > 39
+435:132 = stat(cooking) > 41
+435:133 = invcount(149:0, king_worm_2162) > 3 && invcount(149:0, onion_1957) > 1 && invcount(149:0, gnome_spice_2169) > 0
+435:134 = invcount(149:0, onion_1957) > 1 && invcount(149:0, potato_1942) > 1 && invcount(149:0, gnome_spice_2169) > 0
+435:135 = invcount(149:0, toads_legs_2152) > 3 && invcount(149:0, cheese_1985) > 1 && invcount(149:0, equa_leaves_2128) > 1 && invcount(149:0, gnome_spice_2169) > 0 && invcount(149:0, dwellberries_2126) > 0
+435:136 = invcount(149:0, chocolate_bar_1973) > 3 && invcount(149:0, equa_leaves_2128) > 0
+436:97 = invcount(149:0, vodka_2015) > 1
+436:98 = invcount(149:0, gin_2019) > 0
+436:99 = invcount(149:0, orange_2108) > 0
+436:100 = invcount(149:0, lime_2120) > 0
+436:101 = invcount(149:0, lemon_2102) > 0
+436:107 = invcount(149:0, vodka_2015) > 0
+436:108 = invcount(149:0, lime_2120) > 2
+436:115 = invcount(149:0, pineapple_2114) > 0
+436:116 = invcount(149:0, lemon_2102) > 0
+436:117 = invcount(149:0, orange_2108) > 0
+436:124 = invcount(149:0, pineapple_2114) > 1
+436:125 = invcount(149:0, orange_2108) > 0
+436:126 = invcount(149:0, lemon_2102) > 0
+436:133 = invcount(149:0, vodka_2015) > 0
+436:134 = invcount(149:0, gin_2019) > 0
+436:135 = invcount(149:0, dwellberries_2126) > 0
+436:143 = invcount(149:0, whisky_2017) > 0
+436:144 = invcount(149:0, equa_leaves_2128) > 0
+436:145 = invcount(149:0, bucket_of_milk_1927) > 0
+436:146 = invcount(149:0, chocolate_bar_1973) > 0
+436:155 = invcount(149:0, vodka_2015) > 0
+436:156 = invcount(149:0, brandy_2021) > 0
+436:157 = invcount(149:0, gin_2019) > 0
+436:158 = invcount(149:0, orange_2108) > 0
+436:160 = invcount(149:0, lemon_2102) > 1
+436:162 = stat(cooking) > 5
+436:163 = stat(cooking) > 7
+436:164 = stat(cooking) > 17
+436:165 = stat(cooking) > 19
+436:166 = stat(cooking) > 32
+436:167 = stat(cooking) > 37
+436:168 = stat(cooking) > 31
+436:169 = invcount(149:0, vodka_2015) > 1 && invcount(149:0, gin_2019) > 0 && invcount(149:0, orange_2108) > 0 && invcount(149:0, lime_2120) > 0 && invcount(149:0, lemon_2102) > 0
+436:170 = invcount(149:0, vodka_2015) > 0 && invcount(149:0, lime_2120) > 2
+436:171 = invcount(149:0, pineapple_2114) > 0 && invcount(149:0, lemon_2102) > 0 && invcount(149:0, orange_2108) > 0
+436:172 = invcount(149:0, pineapple_2114) > 1 && invcount(149:0, lemon_2102) > 0 && invcount(149:0, orange_2108) > 0
+436:173 = invcount(149:0, vodka_2015) > 0 && invcount(149:0, gin_2019) > 0 && invcount(149:0, dwellberries_2126) > 0
+436:174 = invcount(149:0, whisky_2017) > 0 && invcount(149:0, equa_leaves_2128) > 0 && invcount(149:0, bucket_of_milk_1927) > 0 && invcount(149:0, chocolate_bar_1973) > 0
+436:175 = invcount(149:0, vodka_2015) > 0 && invcount(149:0, gin_2019) > 0 && invcount(149:0, brandy_2021) > 0 && invcount(149:0, lemon_2102) > 1 && invcount(149:0, orange_2108) > 0
+437:94 = invcount(149:0, toads_legs_2152) > 1
+437:95 = invcount(149:0, gnome_spice_2169) > 0
+437:101 = invcount(149:0, gnome_spice_2169) > 0
+437:102 = invcount(149:0, equa_leaves_2128) > 1
+437:109 = invcount(149:0, gnome_spice_2169) > 0
+437:110 = invcount(149:0, king_worm_2162) > 1
+437:111 = invcount(149:0, equa_leaves_2128) > 0
+437:117 = invcount(149:0, chocolate_bar_1973) > 1
+437:118 = invcount(149:0, gnome_spice_2169) > 0
+437:121 = stat(cooking) > 9
+437:122 = stat(cooking) > 11
+437:123 = stat(cooking) > 13
+437:124 = stat(cooking) > 15
+437:125 = invcount(149:0, toads_legs_2152) > 1 && invcount(149:0, gnome_spice_2169) > 0
+437:126 = invcount(149:0, equa_leaves_2128) > 1 && invcount(149:0, gnome_spice_2169) > 0
+437:127 = invcount(149:0, king_worm_2162) > 1 && invcount(149:0, gnome_spice_2169) > 0 && invcount(149:0, equa_leaves_2128) > 0
+437:128 = invcount(149:0, chocolate_bar_1973) > 1 && invcount(149:0, gnome_spice_2169) > 0
+445:3 = varbit(2517) == 0
+445:4 = varbit(2517) == 1
+445:5 = varbit(2517) == 2
+445:6 = varbit(2517) == 3
+445:7 = varbit(2517) == 4
+445:8 = varbit(2517) == 5
+445:9 = varbit(2517) == 6
+445:10 = varbit(2517) == 7
+445:11 = varbit(2517) == 8
+445:12 = varbit(2517) == 9
+445:13 = varbit(2518) == 0
+445:14 = varbit(2518) == 1
+445:15 = varbit(2518) == 2
+445:16 = varbit(2518) == 3
+445:17 = varbit(2518) == 4
+445:18 = varbit(2518) == 5
+445:19 = varbit(2518) == 6
+445:20 = varbit(2518) == 7
+445:21 = varbit(2518) == 8
+445:22 = varbit(2518) == 9
+445:23 = varbit(2528) == 1
+445:24 = varbit(2527) == 1
+445:25 = varbit(2529) == 1
+445:26 = varbit(2529) == 0
+445:27 = varbit(2527) == 1
+445:28 = varbit(2528) == 1
+447:2 = varbit(2520) == 0
+447:3 = varbit(2520) == 1
+447:4 = varbit(2520) == 2
+447:5 = varbit(2520) == 3
+447:6 = varbit(2520) == 4
+447:7 = varbit(2520) == 5
+447:8 = varbit(2520) == 6
+447:9 = varbit(2520) == 7
+447:10 = varbit(2520) == 8
+447:11 = varbit(2520) == 9
+447:12 = varbit(2519) == 0
+447:13 = varbit(2519) == 1
+447:14 = varbit(2519) == 2
+447:15 = varbit(2519) == 3
+447:16 = varbit(2519) == 4
+447:17 = varbit(2519) == 5
+447:18 = varbit(2519) == 6
+447:19 = varbit(2519) == 7
+447:20 = varbit(2519) == 8
+447:21 = varbit(2519) == 9
+447:22 = varbit(2522) == 0
+447:23 = varbit(2522) == 1
+447:24 = varbit(2522) == 2
+447:25 = varbit(2522) == 3
+447:26 = varbit(2522) == 4
+447:27 = varbit(2522) == 5
+447:28 = varbit(2522) == 6
+447:29 = varbit(2522) == 7
+447:30 = varbit(2522) == 8
+447:31 = varbit(2522) == 9
+447:32 = varbit(2521) == 0
+447:33 = varbit(2521) == 1
+447:34 = varbit(2521) == 2
+447:35 = varbit(2521) == 3
+447:36 = varbit(2521) == 4
+447:37 = varbit(2521) == 5
+447:38 = varbit(2521) == 6
+447:39 = varbit(2521) == 7
+447:40 = varbit(2521) == 8
+447:41 = varbit(2521) == 9
+447:42 = varbit(2524) == 0
+447:43 = varbit(2524) == 1
+447:44 = varbit(2524) == 2
+447:45 = varbit(2524) == 3
+447:46 = varbit(2524) == 4
+447:47 = varbit(2524) == 5
+447:48 = varbit(2524) == 6
+447:49 = varbit(2524) == 7
+447:50 = varbit(2524) == 8
+447:51 = varbit(2524) == 9
+447:52 = varbit(2523) == 0
+447:53 = varbit(2523) == 1
+447:54 = varbit(2523) == 2
+447:55 = varbit(2523) == 3
+447:56 = varbit(2523) == 4
+447:57 = varbit(2523) == 5
+447:58 = varbit(2523) == 6
+447:59 = varbit(2523) == 7
+447:60 = varbit(2523) == 8
+447:61 = varbit(2523) == 9
+447:62 = varbit(2531) == 1
+447:63 = varbit(2530) == 1
+447:64 = varbit(2532) == 1
+447:65 = varbit(2532) == 0
+447:66 = varbit(2530) == 1
+447:67 = varbit(2531) == 1
+447:68 = varbit(2534) == 1
+447:69 = varbit(2533) == 1
+447:70 = varbit(2535) == 1
+447:71 = varbit(2535) == 0
+447:72 = varbit(2533) == 1
+447:73 = varbit(2534) == 1
+447:74 = varbit(2537) == 1
+447:75 = varbit(2536) == 1
+447:76 = varbit(2538) == 1
+447:77 = varbit(2538) == 0
+447:78 = varbit(2536) == 1
+447:79 = varbit(2537) == 1
+462:18 = invcount(149:0, fragment_1_9687) > 0
+462:19 = invcount(149:0, fragment_2_9688) > 0
+462:20 = invcount(149:0, fragment_3_9689) > 0
+462:22 = varp(261) == 1
+462:23 = varp(262) == 1
+462:24 = varp(263) == 1
+462:25 = varp(264) == 1
+462:26 = varp(265) == 1
+462:27 = varp(266) == 1
+477:91 = invcount(149:0, larupia_fur_10095) + invcount(149:0, tatty_larupia_fur_10093) > 0
+477:92 = invcount(149:0, graahk_fur_10099) + invcount(149:0, tatty_graahk_fur_10097) > 0
+477:93 = invcount(149:0, kyatt_fur_10103) + invcount(149:0, tatty_kyatt_fur_10101) > 0
+477:94 = invcount(149:0, polar_kebbit_fur_10117) > 1
+477:95 = invcount(149:0, common_kebbit_fur_10121) > 1
+477:96 = invcount(149:0, feldip_weasel_fur_10119) > 1
+477:97 = invcount(149:0, desert_devil_fur_10123) > 1
+477:98 = invcount(149:0, dark_kebbit_fur_10115) > 1
+477:99 = invcount(149:0, spotted_kebbit_fur_10125) > 1
+477:100 = invcount(149:0, dashing_kebbit_fur_10127) > 1
+540:114 = varbit(3729) == 1
+540:117 = varbit(3729) == 2
+540:120 = varbit(3729) == 3
+540:123 = varbit(3729) == 4
+559:55 = varbit(3802) == 1
+559:56 = varbit(3803) == 1
+559:57 = varbit(3804) == 1
+559:58 = varbit(3805) == 1
+559:59 = varbit(3806) == 1
+559:60 = varbit(3807) == 1
+559:61 = varbit(3808) == 1
+559:62 = varbit(3809) == 1
+559:63 = varbit(3810) == 1
+559:64 = varbit(3811) == 1
+559:65 = varbit(3812) == 1
+559:66 = varbit(3813) == 1
+559:67 = varbit(3814) == 1
+559:68 = varbit(3815) == 1
+559:69 = varbit(3801) == 1

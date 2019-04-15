@@ -1,18 +1,23 @@
 package org.runestar.cs1
 
-import java.lang.invoke.MethodHandles
+data class Condition(
+        val instructions: IntArray,
+        val comparison: Int,
+        val comparisonValue: Int
+)
 
-fun decompile(scripts: List<Script>, appendable: Appendable) {
-    require(scripts.isNotEmpty())
-    decompile(scripts[0], appendable)
-    for (s in scripts.subList(1, scripts.size)) {
-        appendable.append(" && ")
-        decompile(s, appendable)
+fun decompile(conditions: List<Condition>, dst: StringBuilder) {
+    require(conditions.isNotEmpty())
+    val itr = conditions.iterator()
+    decompile(itr.next(), dst)
+    for (c in itr) {
+        dst.append(" && ")
+        decompile(c, dst)
     }
 }
 
-private fun decompile(script: Script, appendable: Appendable) {
-    val insns = script.instructions
+private fun decompile(condition: Condition, dst: StringBuilder) {
+    val insns = condition.instructions
     var first = true
     var pc = 0
     var op = 0
@@ -47,16 +52,16 @@ private fun decompile(script: Script, appendable: Appendable) {
             if (first) {
                 first = false
             } else {
-                appendable.append(' ').append(OPS[op]).append(' ')
+                dst.append(' ').append(OPS[op]).append(' ')
             }
-            appendable.append(s)
+            dst.append(s)
             op = 0
         } else {
             op = nextOp
         }
     }
-    appendable.append(' ').append(COMPARISONS[script.comparison - 1]).append(' ')
-    appendable.append(script.comparisonValue.toString())
+    dst.append(' ').append(COMPARISONS[condition.comparison - 1]).append(' ')
+    dst.append(condition.comparisonValue.toString())
 }
 
 private val COMPARISONS = arrayOf("==", "<", ">", "!=")
@@ -89,13 +94,9 @@ private val STAT_NAMES = arrayOf(
         "construction"
 )
 
-private val OBJ_NAMES = run {
-    val map = HashMap<Int, String>()
-    MethodHandles.lookup().lookupClass().getResource("obj-names.txt").openStream().bufferedReader().use { input ->
-        input.lines().forEach { line ->
-            val split = line.split('\t')
-            map[split[0].toInt()] = split[1]
-        }
+private val OBJ_NAMES = HashMap<Int, String>().apply {
+    Condition::class.java.getResource("obj-names.txt").openStream().bufferedReader().forEachLine { line ->
+        val split = line.split('\t')
+        this[split[0].toInt()] = split[1]
     }
-    map
 }
